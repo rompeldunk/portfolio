@@ -1,0 +1,16 @@
+
+.choice{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.choose-profile {
+max-height: %;
+padding: 20px;
+
+}
+
+.choose-profile img {
+    max-width: 405px;
+    text-align: center;
+}
