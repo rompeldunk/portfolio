@@ -1,0 +1,138 @@
+Applied Materials Technology
+TMT4190
+
+Calculus 1
+TMA4100
+
+Calculus 2
+TMA4105
+
+Calculus 3
+TMA4110
+
+Calculus 4M
+TMT4123
+
+Casting
+TMT4215
+
+Control Systems
+TTK4105
+
+Electric Circuit Analysis
+TET4100
+
+Electric Circuits
+TFE4100
+
+Electrical Machines
+TET4110
+
+Electromagnetism
+TFE4120
+
+Energy and Process
+TEP4215
+
+Energy from wind and ocean currents
+TEP4175
+
+Engineering Fluid Mechanics
+TEP4135
+
+Environmental science, ecosystems and sustainability
+TIØ4300
+
+Experts in Team (EiT) VR-Village
+TPG4860
+
+Fluid Mechanics
+TEP4100
+
+Fluidflow and Heat Transfer, Introductory Course
+TMT4206
+
+General Chemistry
+TMT4110
+
+Heat Pumping Processes and Systems
+TEP4255
+
+Heat and Masstransfer
+TEP4130
+
+Heterogeneous Equilibria and Phase Diagrams
+TMT4155
+
+Hydrogen technology, fuel cells and solar cells
+TMT4285
+
+Industrial Process Engineering, Specialization Course
+TEP4525
+
+Industrial Process Engineering, Specialization Project
+TEP4520
+
+Information Technology, Introduction
+TDT4105
+
+Infrastructure for energy transport
+TET4155
+
+Life Cycle Analysis
+TEP4223
+
+Material and Process Modelling
+TMT4210
+
+Materials Technology 1
+TMT4170
+
+Materials Technology 2
+TMT4175
+
+Materials- and Surface Chemistry
+TMT4292
+
+Mechanics 1
+TKT4116
+
+Multiphase Transport
+TEP4250
+
+Nanomaterials
+TMT4320
+
+Natural Gas Technology
+TEP4185
+
+Philosophy and Theory of Science
+EXPH0001
+
+Physics
+TFY4120
+
+Procedural and object-oriented programming
+TDT4102
+
+Statistics
+TMA4240
+
+System Simulation
+TEP4240
+
+TFY4215 - Introduction to Quantum Physics
+Technology Management
+TIØ4258
+
+Thermodynamics 1
+TEP4120
+
+Thermodynamics 2
+TEP4125
+
+Thermodynamics and Phasediagrams
+TMT4275
+
+Viscous Flows and Boundary Layers
+TEP4156

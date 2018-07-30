@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'funkymoon';
+  src:  url('../fonts/funkymoon.eot?7xi5wv');
+  src:  url('../fonts/funkymoon.eot?7xi5wv#iefix') format('embedded-opentype'),
+    url('../fonts/funkymoon.ttf?7xi5wv') format('truetype'),
+    url('../fonts/funkymoon.woff?7xi5wv') format('woff'),
+    url('../fonts/funkymoon.svg?7xi5wv#funkymoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon2-"], [class*=" icon2-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'funkymoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon2-hex2:before {
+  content: "\e900";
+}
+.icon2-hex:before {
+  content: "\e908";
+}
+.icon2-simulation:before {
+  content: "\e909";
+}
+.icon2-engine:before {
+  content: "\e90a";
+}
+.icon2-geothermal:before {
+  content: "\e90c";
+}
+.icon2-hex3:before {
+  content: "\e90d";
+}
+.icon2-gas-pipe:before {
+  content: "\1f5c6";
+}
+.icon2-air-conditioner:before {
+  content: "\e901";
+}
+.icon2-planing:before {
+  content: "\e902";
+}
+.icon2-plan:before {
+  content: "\e903";
+}
+.icon2-factory:before {
+  content: "\e904";
+}
+.icon2-oil:before {
+  content: "\e905";
+}
+.icon2-planning:before {
+  content: "\e906";
+}
+.icon2-pipe:before {
+  content: "\e907";
+}
+
+
+/* Icon */
+
+.icon2 {
+  text-decoration: none;
+  border-bottom: none;
+  position: relative;
+  text-align: center;
+}
+
+  .icon2:before {
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+      font-family: 'funkymoon' !important;
+      font-style: normal;
+      font-weight: normal;
+      text-transform: none !important;
+  }
+
+  .icon2 > .label {
+      display: none;
+  }
+
+  .icon2.styleMe:before {
+      border-radius: 2.75em;
+      display: inline-block;
+      height: 2.75em;
+      line-height: 2.75em;
+      width: 2.75em;
+  }
+
+  .icon2.majority {
+      display: block;
+      margin: 0 0 1rem 0;
+  }
+
+      .icon2.majority:before {
+          font-size: 5rem;
+      }
+
+a.icon2.styleMe:before {
+  -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+  -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.icon2.styleMe:before {
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+a.icon2.styleMe:hover:before {
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
+
+a.icon2.styleMe:active:before {
+  background-color: rgba(71, 211, 229, 0.1);
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
