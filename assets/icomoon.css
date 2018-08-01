@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'funkymoon';
-  src:  url('../fonts/funkymoon.eot?fvur4');
-  src:  url('../fonts/funkymoon.eot?fvur4#iefix') format('embedded-opentype'),
-    url('../fonts/funkymoon.ttf?fvur4') format('truetype'),
-    url('../fonts/funkymoon.woff?fvur4') format('woff'),
-    url('../fonts/funkymoon.svg?fvur4#funkymoon') format('svg');
+  src:  url('fonts/funkymoon.eot?l30ru9');
+  src:  url('fonts/funkymoon.eot?l30ru9#iefix') format('embedded-opentype'),
+    url('fonts/funkymoon.ttf?l30ru9') format('truetype'),
+    url('fonts/funkymoon.woff?l30ru9') format('woff'),
+    url('fonts/funkymoon.svg?l30ru9#funkymoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon2-wind:before {
+  content: "\e913";
+}
+.icon2-mathematics:before {
+  content: "\e914";
+}
+.icon2-regtek:before {
+  content: "\e915";
+}
+.icon2-material-science2:before {
+  content: "\e916";
+}
+.icon2-material-science:before {
+  content: "\e917";
+}
+.icon2-coding:before {
+  content: "\e912";
+}
 .icon2-lca:before {
   content: "\e911";
 }
