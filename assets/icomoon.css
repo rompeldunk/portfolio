@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'funkymoon';
+  src:  url('fonts/funkymoon.eot?l30ru9');
+  src:  url('fonts/funkymoon.eot?l30ru9#iefix') format('embedded-opentype'),
+    url('fonts/funkymoon.ttf?l30ru9') format('truetype'),
+    url('fonts/funkymoon.woff?l30ru9') format('woff'),
+    url('fonts/funkymoon.svg?l30ru9#funkymoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon2-"], [class*=" icon2-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'funkymoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon2-wind:before {
+  content: "\e913";
+}
+.icon2-mathematics:before {
+  content: "\e914";
+}
+.icon2-regtek:before {
+  content: "\e915";
+}
+.icon2-material-science2:before {
+  content: "\e916";
+}
+.icon2-material-science:before {
+  content: "\e917";
+}
+.icon2-coding:before {
+  content: "\e912";
+}
+.icon2-lca:before {
+  content: "\e911";
+}
+.icon2-physics:before {
+  content: "\e910";
+}
+.icon2-regulation2:before {
+  content: "\e951";
+}
+.icon2-engineering2:before {
+  content: "\e952";
+}
+.icon2-regulation:before {
+  content: "\e90b";
+}
+.icon2-engineering:before {
+  content: "\e90e";
+}
+.icon2-cyborg:before {
+  content: "\e90f";
+}
+.icon2-hex2:before {
+  content: "\e900";
+}
+.icon2-hex:before {
+  content: "\e908";
+}
+.icon2-simulation:before {
+  content: "\e909";
+}
+.icon2-engine:before {
+  content: "\e90a";
+}
+.icon2-geothermal:before {
+  content: "\e90c";
+}
+.icon2-hex3:before {
+  content: "\e90d";
+}
+.icon2-gas-pipe:before {
+  content: "\1f5c6";
+}
+.icon2-air-conditioner:before {
+  content: "\e901";
+}
+.icon2-planing:before {
+  content: "\e902";
+}
+.icon2-plan:before {
+  content: "\e903";
+}
+.icon2-factory:before {
+  content: "\e904";
+}
+.icon2-oil:before {
+  content: "\e905";
+}
+.icon2-planning:before {
+  content: "\e906";
+}
+.icon2-pipe:before {
+  content: "\e907";
+}

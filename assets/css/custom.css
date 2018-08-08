@@ -28,3 +28,68 @@
 .grey {
     max-width: 405px;
 }
+
+
+
+/* Icon */
+
+.icon2 {
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+    text-align: center;
+  }
+  
+    .icon2:before {
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        font-family: 'funkymoon' !important;
+        font-style: normal;
+        font-weight: normal;
+        text-transform: none !important;
+    }
+  
+    .icon2 > .label {
+        display: none;
+    }
+  
+    .icon2.styleMe:before {
+        border-radius: 2.75em;
+        display: inline-block;
+        height: 2.75em;
+        line-height: 2.75em;
+        width: 2.75em;
+    }
+  
+    .icon2.majority {
+        display: block;
+        margin: 0 0 1rem 0;
+    }
+  
+        .icon2.majority:before {
+            font-size: 5rem;
+        }
+  
+  a.icon2.styleMe:before {
+    -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+  }
+  
+  .icon2.styleMe:before {
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+  }
+  
+  a.icon2.styleMe:hover:before {
+    box-shadow: inset 0 0 0 1px #47D3E5;
+    color: #47D3E5;
+  }
+  
+  a.icon2.styleMe:active:before {
+    background-color: rgba(71, 211, 229, 0.1);
+    box-shadow: inset 0 0 0 1px #47D3E5;
+    color: #47D3E5;
+  }
+  
+
